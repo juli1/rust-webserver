@@ -1,0 +1,8 @@
+[package]
+name = "rust-webserver"
+version = "0.1.0"
+authors = ["julien <julien@gunnm.org>"]
+
+[dependencies]
+getopts = "0.2.15"
+mio = "0.6"
